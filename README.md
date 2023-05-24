@@ -1,6 +1,6 @@
 # quiz_app
 
-Simple quiz app ui using flutter
+Simple quiz app ui using Flutter
 
 ## Getting Started
 
